@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,UAAW,CACX,WAAY","file":"main.507b46eb.chunk.css","sourcesContent":[".posts {\n  width: 60vw;\n  margin: auto;\n}\n"]}
